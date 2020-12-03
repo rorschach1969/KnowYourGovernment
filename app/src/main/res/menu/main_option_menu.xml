@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutInfo"
+        android:icon="@drawable/baseline_help_white_48"
+        android:title="info"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/searchOption"
+        android:icon="@drawable/baseline_search_white_48"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="no_perm">No Permission</string>
+    <string name="no_locs">Location Unavailable</string>
+</resources>
