@@ -20,7 +20,7 @@ public class GovDownloaderAsyncTask extends AsyncTask<String, Void, String> {
     @SuppressLint("StaticFieldLeak")
     private MainActivity mainActivity;
     private String location;
-    private static final String API_KEY = "AIzaSyAGgKtBO8KjrKBNcCTMw3gCV1ptPds3u8E";
+    private static final String API_KEY = "<YOUR_API_KEY>";
     private static final String civicAPI = "https://www.googleapis.com/civicinfo/v2/representatives";
 
     private JSONArray govOffices = new JSONArray();
